@@ -1,7 +1,9 @@
 ---
 title: "함께 자라기 - 애자일로 가는 길"
 header:
-  image: /assets/images/unsplash-grow.jpg
+  overlay_image: /assets/images/unsplash-grow.jpg
+  overlay_filter: 0.7
+  caption: "Photo creadit: [**Unsplash**](https://unsplash.com)"
 date: 2020-04-19 19:00:00 +0800
 categories:
   - Books
