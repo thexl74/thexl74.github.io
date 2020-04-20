@@ -1,15 +1,19 @@
 ---
-title: "함께 자라기 - 애자일로 가는 길"
+title: "함께 자라기 - 애자일로 가는 길(김창준님)"
+excerpt: "내년에 다시 봐야할 책"
+tagline: "내년에 다시 봐야할 책"
 header:
   overlay_image: /assets/images/unsplash-grow.jpg
-  overlay_filter: 0.7
+  overlay_filter: 0.5
   caption: "Photo creadit: [**Unsplash**](https://unsplash.com)"
 date: 2020-04-19 19:00:00 +0800
 categories:
+  - Programming
+tags:
   - Books
 ---
 
-## 총평
+## Why?
 
 몇 년전 스크랩해두었던 김창준님의 글([프로그래밍과 알고리즘 공부 방법](https://thexl74.github.io/))을 읽다보니 참 공부를 많이 한 사람이라는 생각이 들었다.
 김창준으로 검색을 해보니 "함께 자라기 - 애자일로 가는 길"이라는 책이 검색 되는데, 사실 애자일에는 딱히 관심이 없었지만 사람들의 리뷰도 좋아서 주문해보았다.

@@ -1,8 +1,12 @@
 ---
 title: "프로그래밍과 알고리즘 공부 방법(김창준님)"
+excerpt: "리팩토링, 알고리즘·자료구조, 디자인패턴, 그리고 XP"
+tagline: "리팩토링, 알고리즘·자료구조, 디자인패턴, 그리고 XP"
 date: 2020-04-20 22:00:00 +0800
 header:
-  image: /assets/images/unsplash-grow.jpg
+  overlay_image: /assets/images/unsplash-grow.jpg
+  overlay_filter: 0.5
+  caption: "Photo creadit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Programming
 ---

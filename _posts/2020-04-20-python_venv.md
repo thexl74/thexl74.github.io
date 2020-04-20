@@ -1,7 +1,9 @@
 ---
-title: "Python virtual environments"
+title: "파이썬 가상 환경"
 date: 2020-04-20 21:00:00 +0800
 categories:
+  - Programming
+tags:
   - Python
 ---
 
